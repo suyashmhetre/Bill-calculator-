@@ -1,0 +1,10 @@
+body{
+  padding: 25px;
+  background-color: white;
+}
+.title {
+	color: #5C6AC4;
+}
+p {
+  color: blue;
+}
